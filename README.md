@@ -1,1 +1,2 @@
-# MLDM-Project---Heart-Disease-Project
+MLDM Project
+Heart Disease Project
